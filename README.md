@@ -29,6 +29,8 @@ _________________
 - Prompt:Create a contemporary logo for 'Wei Yuan Real Estate' focusing on residential and commercial property excellence. The logo should blend a warm-toned color scheme, utilizing golden hues for a feeling of prosperity and deep earthy accents for stability. The typeface should be modern and sans-serif with a unique twist that could subtly hint at architectural forms or the concept of home. The design should be versatile enough to be effective on digital platforms and physical signage, capturing the brand’s commitment to warm, professional, and trustworthy real estate services. 
 <img src="./previews/6.png" width="500">
 
+- **生成效果 by Midjourney --v5.2**
+- Prompt:Design a simple, modern 'Charm Land' logo with a light backdrop, embodying an artistic community, clear and versatile for digital and physical display.
 <img src="./previews/7.png" width="500">
 
 _________________
