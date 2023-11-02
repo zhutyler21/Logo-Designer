@@ -22,7 +22,7 @@ _________________
 <img src="./previews/4.png" width="500">
 
 - **生成效果 by Midjourney --v5.2**
-- Prompt:Design a modern and sophisticated logo for 'Wei Yuan' that reflects innovation in property development. Use a warm color palette with shades of gold and soft browns to convey luxury, warmth, and reliability. The typography should be clean and modern, possibly incorporating elements that suggest growth and stability, such as simplified building or skyline outlines. Aim for a minimalistic emblem that can stand out on billboards as well as business cards, with the warmth of the colors making it welcoming and the modern font asserting cutting-edge service.
+- Prompt:Create a sleek, modern logo for "Charm Land", a cultural and creative industry park. The logo must stand out on a light-colored background for signage and online media use. Emphasize the name "Charm Land" using a contemporary, minimalist font, making the text the focal point of the design. Consider integrating a subtle image or icon that signifies innovation and creativity, such as an abstract representation of a muse or a landmark. The image should complement, not overpower, the text. Use a bright and vibrant color palette to convey the park's dynamic and creative environment while maintaining a professional and commercial appeal.
 <img src="./previews/5.png" width="500">
 
 - **生成效果 by Midjourney --v5.2**
