@@ -15,8 +15,18 @@
 _________________
 
 ## 🎨 效果展示
-例如：<img src="./previews/logo_sample.png" width="500">
-...
+<img src="./previews/1.png" width="500">
+<img src="./previews/2.png" width="500">
+<img src="./previews/3.png" width="500">
+<img src="./previews/4.png" width="500">
+
+- **生成效果 by Midjourney --v5.2**
+- Prompt:Design a modern and sophisticated logo for 'Wei Yuan' that reflects innovation in property development. Use a warm color palette with shades of gold and soft browns to convey luxury, warmth, and reliability. The typography should be clean and modern, possibly incorporating elements that suggest growth and stability, such as simplified building or skyline outlines. Aim for a minimalistic emblem that can stand out on billboards as well as business cards, with the warmth of the colors making it welcoming and the modern font asserting cutting-edge service.
+<img src="./previews/5.png" width="500">
+
+- **生成效果 by Midjourney --v5.2**
+- Prompt:Create a contemporary logo for 'Wei Yuan Real Estate' focusing on residential and commercial property excellence. The logo should blend a warm-toned color scheme, utilizing golden hues for a feeling of prosperity and deep earthy accents for stability. The typeface should be modern and sans-serif with a unique twist that could subtly hint at architectural forms or the concept of home. The design should be versatile enough to be effective on digital platforms and physical signage, capturing the brand’s commitment to warm, professional, and trustworthy real estate services. 
+<img src="./previews/6.png" width="500">
 
 _________________
 ## 🎖️ 个人链接（请固定保留）
