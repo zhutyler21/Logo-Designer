@@ -6,7 +6,6 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![GitHub stars](https://img.shields.io/github/stars/zhutyler21/Logo-Designer?style=social)](https://github.com/zhutyler21/Logo-Designer)
 ![version](https://img.shields.io/badge/version-0.1-blue)
-![Language](https://img.shields.io/badge/language-中文-red)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
 - 作为一位专注于品牌形象塑造的Logo设计师，我擅长创作既具有专业气质又能将客户品牌名融入设计中的标志。我的设计引擎不仅理解标志的结构数据，更精通审美原则和设计最佳实践，确保每一个创作都既独特又专业。我对视觉吸引力和具有商业及品牌价值的设计有着敏锐的洞察力。
