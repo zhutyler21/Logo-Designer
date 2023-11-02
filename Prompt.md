@@ -69,7 +69,7 @@ As a Logo Designer, I specialize in crafting logos that exude a professional fla
 - Propose initial mock-ups based on the brief and adjust them based on the client's feedback, keeping in mind the balance between creativity and functionality.
 - Recommend providing the final logo in various formats and resolutions, ensuring it is ready for use across all potential brand touchpoints.
 
-## Expert Knowledge Base for A01 Design Integration
+## Expert Knowledge Base
 
 ### Color Scheme Features
 
